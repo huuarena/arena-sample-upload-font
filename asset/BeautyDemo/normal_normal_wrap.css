@@ -1,0 +1,10 @@
+@font-face {
+	 font-family: "BeautyDemo";
+	 src: url("http://localhost:5000/asset/BeautyDemo/BeautyDemo.otf") format("opentype"),
+		 url("http://localhost:5000/asset/BeautyDemo/BeautyDemo.ttf") format("truetype"),
+		 url("http://localhost:5000/asset/BeautyDemo/BeautyDemo.woff") format("woff"),
+		 url("http://localhost:5000/asset/BeautyDemo/BeautyDemo.svg") format("svg");
+	 font-style: normal;
+	 font-weight: normal;
+	 display: swap;
+}

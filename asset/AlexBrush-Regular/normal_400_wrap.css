@@ -1,0 +1,10 @@
+@font-face {
+	 font-family: "AlexBrush-Regular";
+	 src: url("http://localhost:5000/asset/AlexBrush-Regular/AlexBrush-Regular.otf") format("opentype"),
+		 url("http://localhost:5000/asset/AlexBrush-Regular/AlexBrush-Regular.ttf") format("truetype"),
+		 url("http://localhost:5000/asset/AlexBrush-Regular/AlexBrush-Regular.woff") format("woff"),
+		 url("http://localhost:5000/asset/AlexBrush-Regular/AlexBrush-Regular.svg") format("svg");
+	 font-style: normal;
+	 font-weight: 400;
+	 display: wrap;
+}
